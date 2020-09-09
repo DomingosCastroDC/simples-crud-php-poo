@@ -1,0 +1,21 @@
+{
+    "name": "domingoscastro/crud-poo",
+    "description": "Um crud simples Orientado a Objectos",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BilgCastro",
+            "email": "bilgcamposcs@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "app\\" : "./"
+        }
+    },
+
+    "files" : [
+        "./config/config.php"
+    ],
+    "require": {}
+}
